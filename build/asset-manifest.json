@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.812d3297.css",
+    "main.js": "/static/js/main.770372f0.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/ofont.ru_Roboto_black.ttf": "/static/media/ofont.ru_Roboto_black.45715786ed948b799cf8.ttf",
+    "static/media/MainPage.jpg": "/static/media/MainPage.18fb18e33b851d720248.jpg",
+    "static/media/login.jpg": "/static/media/login.3817546a972ab2e31fe1.jpg",
+    "static/media/ofont.ru_Roboto_reg.ttf": "/static/media/ofont.ru_Roboto_reg.80e7009df9ff0cd28d0f.ttf",
+    "static/media/RegImg.jpg": "/static/media/RegImg.1b25d21ddc83a6a697e0.jpg",
+    "static/media/FREE file host.svg": "/static/media/FREE file host.9c22af36fcbf27fb5241578a36509d53.svg",
+    "index.html": "/index.html",
+    "main.812d3297.css.map": "/static/css/main.812d3297.css.map",
+    "main.770372f0.js.map": "/static/js/main.770372f0.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.812d3297.css",
+    "static/js/main.770372f0.js"
+  ]
+}
